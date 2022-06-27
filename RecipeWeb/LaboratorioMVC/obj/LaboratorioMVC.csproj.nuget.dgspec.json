@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mauri\\Desktop\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\LaboratorioMVC.csproj": {}
+    "C:\\Users\\andre\\Documents\\LaboratorioMVC\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\LaboratorioMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mauri\\Desktop\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\LaboratorioMVC.csproj": {
+    "C:\\Users\\andre\\Documents\\LaboratorioMVC\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\LaboratorioMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mauri\\Desktop\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\LaboratorioMVC.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Documents\\LaboratorioMVC\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\LaboratorioMVC.csproj",
         "projectName": "LaboratorioMVC",
-        "projectPath": "C:\\Users\\mauri\\Desktop\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\LaboratorioMVC.csproj",
-        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mauri\\Desktop\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\obj\\",
+        "projectPath": "C:\\Users\\andre\\Documents\\LaboratorioMVC\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\LaboratorioMVC.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\Documents\\LaboratorioMVC\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
