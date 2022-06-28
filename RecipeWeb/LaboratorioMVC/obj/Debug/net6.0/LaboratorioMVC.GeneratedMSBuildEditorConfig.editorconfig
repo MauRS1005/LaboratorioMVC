@@ -15,6 +15,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\andre\Documents\LaboratorioMVC\LaboratorioMVC\RecipeWeb\LaboratorioMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/andre/Documents/LaboratorioMVC/LaboratorioMVC/RecipeWeb/LaboratorioMVC/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/Documents/LaboratorioMVC/LaboratorioMVC/RecipeWeb/LaboratorioMVC/Areas/Admin/Views/Category/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcVXBzZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/Documents/LaboratorioMVC/LaboratorioMVC/RecipeWeb/LaboratorioMVC/Areas/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/Documents/LaboratorioMVC/LaboratorioMVC/RecipeWeb/LaboratorioMVC/Areas/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/andre/Documents/LaboratorioMVC/LaboratorioMVC/RecipeWeb/LaboratorioMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +41,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/andre/Documents/LaboratorioMVC/LaboratorioMVC/RecipeWeb/LaboratorioMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/Documents/LaboratorioMVC/LaboratorioMVC/RecipeWeb/LaboratorioMVC/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/andre/Documents/LaboratorioMVC/LaboratorioMVC/RecipeWeb/LaboratorioMVC/Views/Shared/_ValidationScriptsPartial.cshtml]

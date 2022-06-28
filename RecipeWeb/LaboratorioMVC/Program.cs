@@ -1,7 +1,23 @@
+using LaboratorioMVC.Data;
+using LaboratorioMVC.Repository;
+using LaboratorioMVC.Repository.IRepository;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddDefaultTokenProviders() //options => options.SignIn.RequireConfirmedAccount = true
+    .AddEntityFrameworkStores<ApplicationDbContext>(); ;
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("DefaultConnection")
+    ));
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
 
 var app = builder.Build();
 
@@ -17,8 +33,10 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();;
 
 app.UseAuthorization();
+app.MapRazorPages();
 
 app.MapControllerRoute(
     name: "default",

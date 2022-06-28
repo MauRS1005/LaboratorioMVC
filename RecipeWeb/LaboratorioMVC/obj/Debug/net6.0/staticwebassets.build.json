@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xUi3l0Vy6HXiMhB/GH646bAaaF/dYeop0N336ag+AHg=",
+  "Hash": "gIkYFzix99Y03NnDuehf9eEtLzszaB3GaH3JJJya4tE=",
   "Source": "LaboratorioMVC",
   "BasePath": "_content/LaboratorioMVC",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\Documents\\LaboratorioMVC\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\wwwroot\\js\\category.js",
+      "SourceId": "LaboratorioMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\Documents\\LaboratorioMVC\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\wwwroot\\",
+      "BasePath": "_content/LaboratorioMVC",
+      "RelativePath": "js/category.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\category.js"
     },
     {
       "Identity": "C:\\Users\\andre\\Documents\\LaboratorioMVC\\LaboratorioMVC\\RecipeWeb\\LaboratorioMVC\\wwwroot\\js\\site.js",
